@@ -10,10 +10,6 @@ This is a simple portfolio website showcasing my skills, projects, and informati
 - Skills section showcasing technical skills or expertise.
 - Contact section with contact information or a contact form.
 
-## Preview
-
-![Portfolio Website Preview](portfolio-preview.png)
-
 ## Technologies Used
 
 - HTML5
